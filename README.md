@@ -17,6 +17,7 @@ If you want to give it a try, you can also find the Notebook on Kaggle where you
 ## Kaggle Competition
 
 You can find the Kaggle Competition page here: (https://www.kaggle.com/c/bluebook-for-bulldozers)
+The competition is over and closed, but you can still run the notebook and compare with the leaderboard results for reference.
 
 ## Article
 

@@ -9,18 +9,19 @@ This is a bit against industry consensus that Deep Learning is more for unstruct
 
 ## Notebook
 
-You can find the **Jupyter Notebook** ![here](https://github.com/wayofnumbers/Kaggle-Blue-Book-Bulldozers-Competition-Project/blob/main/blue-book-bulldozer-fast-ai-deep-learning.ipynb).
+You can find the **Jupyter Notebook** [here](https://github.com/wayofnumbers/Kaggle-Blue-Book-Bulldozers-Competition-Project/blob/main/blue-book-bulldozer-fast-ai-deep-learning.ipynb).
 
 If you want to give it a try, you can also find the Notebook on Kaggle where you can easily copy and run yourself(Dataset on Kaggle too):
-**Kaggle Notebook** (https://www.kaggle.com/lymenlee/blue-book-bulldozer-fast-ai-deep-learning/notebook)
+[Kaggle Notebook](https://www.kaggle.com/lymenlee/blue-book-bulldozer-fast-ai-deep-learning/notebook)
 
 ## Kaggle Competition
 
-You can find the Kaggle Competition page here: (https://www.kaggle.com/c/bluebook-for-bulldozers)
+You can find the Kaggle Competition page [here](https://www.kaggle.com/c/bluebook-for-bulldozers)
 The competition is over and closed, but you can still run the notebook and compare with the leaderboard results for reference.
 
 ## Article
 
 I wrote two articles about this project on Medium.com, which you can find below:
-**How to Gain State-Of-The-Art Result on Tabular Data with Deep Learning and Embedding Layers** (https://towardsdatascience.com/how-to-gain-state-of-the-art-result-on-tabular-data-with-deep-learning-and-embedding-layers-d1eb6b83c52c)
+
+[How to Gain State-Of-The-Art Result on Tabular Data with Deep Learning and Embedding Layers](https://towardsdatascience.com/how-to-gain-state-of-the-art-result-on-tabular-data-with-deep-learning-and-embedding-layers-d1eb6b83c52c)
 
